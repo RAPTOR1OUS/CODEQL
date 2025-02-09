@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "G:/Quake Live"
+		},
+		{
+			"path": "G:/Quake III Arena"
+		}
+	],
+	"settings": {
+		"editor.linkedEditing": true,
+		"iis.activeFolder": "Quake Live",
+		"svn.ignoreMissingSvnWarning": true
+	}
+}
