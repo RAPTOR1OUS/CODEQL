@@ -87,3 +87,5 @@ jobs:
       uses: github/codeql-action/analyze@v3
       with:
         category: "/language:${{matrix.language}}"
+
+pattern: "^(off|errors|warnings|(info|progress)|(debug|progress\+)|(trace|progress\+\+)|progress\+\+\+)$"
